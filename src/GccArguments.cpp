@@ -133,6 +133,7 @@ static const char* valueArgs[] = {
     "-o",
     "-x",
     "-target",
+    "-ccc-gcc-name",
     "--param",
     "-imacros",
     "-iprefix",
